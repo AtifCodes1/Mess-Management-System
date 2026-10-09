@@ -6,6 +6,7 @@ Allows students to view the weekly menu online and pre-order their meals 1 to 2 
 Issues a digital token upon order confirmation that displays the student's selected items,order price,and assigned pickup time.
 Provides students with digital accounts where they can deposit funds, enabling automated deduction of meal charges and real-time balance tracking.
 Empowers the Finance Department and Mess Manager to track student account balances, monitor transactions, oversee daily revenue, and manage mess fee clearances.
+---
 **Tech Stack**
 **Frontend:** HTML3,CSS,JavaScript
 **Backend:** Python
