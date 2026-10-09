@@ -1,0 +1,21 @@
+**Mess Management System**
+**Project Summary**
+The Mess Management System is user-friendly website developed for Namal University to digitize and streamline.
+Designed under the guidance of Mess Manager(Mr. Naeem Maqbool), the system replaces manuals registers,cash handling and disorganinized queues with digital platform.
+Allows students to view the weekly menu online and pre-order their meals 1 to 2 hours before break time while reserving a specific pickup time.
+Issues a digital token upon order confirmation that displays the student's selected items,order price,and assigned pickup time.
+Provides students with digital accounts where they can deposit funds, enabling automated deduction of meal charges and real-time balance tracking.
+Empowers the Finance Department and Mess Manager to track student account balances, monitor transactions, oversee daily revenue, and manage mess fee clearances.
+**Tech Stack**
+**Frontend:** HTML3,CSS,JavaScript
+**Backend:** Python
+**Database:**MySQL
+**UI/UX Design:** Figma
+**Documentation:** Microsoft word
+---
+** Contributors Details
+**Muhammad Atif:** NUM-BSCS-2025-31
+**Sadaf:** NUM-BSCS-2025-49
+**Anas khan:** NUM-BSCS-2025-09
+**Romaisa Maryam:**  NUM-BSCS-2025-48
+*Requirement Provider:** Mr. Naeem Maqbool (Mess Manager, Namal University)
