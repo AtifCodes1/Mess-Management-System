@@ -1,8 +1,8 @@
-# 🍽️ Mess Management System
+#  Mess Management System
 
 A web-based **Mess Management System** developed for **Namal University** to digitize and streamline mess operations.
 
-## 📌 Project Summary
+##  Project Summary
 
 The Mess Management System is a user-friendly website designed to replace manual registers, cash handling, and disorganized queues with a digital platform.
 
@@ -33,7 +33,7 @@ The system aims to make meal ordering and mess administration easier for student
 - **Anas Khan** — NUM-BSCS-2025-09
 - **Romaisa Maryam** — NUM-BSCS-2025-48
 
-## 🏫 Requirement Provider
+##  Requirement Provider
 
 **Mr. Naeem Maqbool**  
 Mess Manager, Namal University
